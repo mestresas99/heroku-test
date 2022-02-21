@@ -1,2 +1,0 @@
-$APP_SECRET = 0878c2fc3f68e47d0970eab3adf6bc69;
-$TOKEN = 1111;
